@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/FarbodY/AndroidStudioProjects/VideoPlayback-5-5-9/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/FarbodY/AndroidStudioProjects/VideoPlayback-5-5-9/app/build/intermediates/pre-dexed/debug/Vuforia-a060d73220df79ee9c27e9231fa2f5652f4ce6b8.jar" />
+    </item>
+
+</items>
